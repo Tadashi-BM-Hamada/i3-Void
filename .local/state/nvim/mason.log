@@ -1,0 +1,40 @@
+[INFO  Thu Jan  4 15:23:15 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu Jan  4 15:23:15 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[ERROR Thu Jan  4 15:23:18 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:23:20 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Thu Jan  4 15:31:06 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu Jan  4 15:31:06 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Thu Jan  4 15:31:06 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:31:08 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Thu Jan  4 15:35:53 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:35:53 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:39:09 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:39:09 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:44:50 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:44:50 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:49:27 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:49:27 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:50:35 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:50:35 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:53:06 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:53:06 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:53:33 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:53:33 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:55:10 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:55:10 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 15:58:48 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 15:58:48 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:00:36 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:00:36 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:06:45 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:06:45 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:14:10 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:14:11 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:15:56 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:15:56 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:16:07 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:16:07 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:19:57 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:19:58 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."
+[INFO  Thu Jan  4 16:21:19 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Thu Jan  4 16:21:19 2024] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error="The current platform is unsupported."

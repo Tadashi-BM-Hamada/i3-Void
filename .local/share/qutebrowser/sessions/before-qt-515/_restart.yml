@@ -1,0 +1,35 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAMnAAAANgAABiEAAANlAAADKgAAADkAAAYeAAADYgAAAAAAAAAABkAAAAMqAAAA
+    OQAABh4AAANi
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-01-04T12:52:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Start Page
+      url: file:///home/bmolgeri/.config/startpage/startpage.html
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-01-04T12:52:50'
+      pinned: false
+      title: qutebrowser quickstart | qutebrowser
+      url: https://www.qutebrowser.org/quickstart.html
+    - last_visited: '2024-01-04T12:53:12'
+      pinned: false
+      title: compton transparency not working at DuckDuckGo
+      url: https://duckduckgo.com/?q=compton+transparency+not+working&ia=web
+    - active: true
+      last_visited: '2024-01-04T12:53:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: i3 - i3wm opacity with Compton - Stack Overflow
+      url: https://stackoverflow.com/questions/56036477/i3wm-opacity-with-compton
+      zoom: 1.0

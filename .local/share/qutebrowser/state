@@ -1,0 +1,13 @@
+[general]
+qt_version = 6.6.0
+qtwe_version = 6.6
+chromium_version = 112
+version = 3.1.0
+session-warning-shown = 1
+quickstart-done = 1
+
+[geometry]
+mainwindow = AdnQywADAAAAAAMnAAAANgAABiEAAANlAAADKgAAADkAAAYeAAADYgAAAAAAAAAABkAAAAMqAAAAOQAABh4AAANi
+
+[inspector]
+
